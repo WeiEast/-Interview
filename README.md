@@ -22,3 +22,6 @@
 ## 数据库
 ### nosql
 1. [reids](./databases/01.md)
+
+## mac使用技巧
+1.[mac使用技巧](./mac/01.md)
